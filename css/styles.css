@@ -15,11 +15,14 @@ h2 {
 
 p {
   font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: normal;
+  font-size: medium;
 }
 
 .year {
   text-transform: capitalize;
-  background-color: blue;
+  background-color: rgba(0, 0, 255, 0.129);
   font-weight: bold;
 }
 
