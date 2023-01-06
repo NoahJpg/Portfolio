@@ -7,3 +7,23 @@ h2 {
 p {
   font-size: larger;
 }
+
+.img {
+float: right;
+}
+
+.sidebar {
+  float: left;
+  background-color: rgba(182, 168, 220, 0.406);
+  color: black;
+  font-size: small;
+}
+
+.about-me {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  float: left;
+  border: 4px red;
+  padding: auto;
+  margin: auto;
+}
