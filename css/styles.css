@@ -33,12 +33,6 @@ p {
   color: white;
 }
 
-.year {
-  text-transform: capitalize;
-  background-color: rgba(0, 0, 255, 0.129);
-  font-weight: bold;
-}
-
 .img {
   text-align: center;
 }
@@ -66,9 +60,29 @@ p {
   list-style-position: inside;
   background-color: teal;
   border: 5px black;
+} 
+.year {
+  background-color: rgba(255, 0, 0, 0.129);
+  font-weight: bold;
 }
 
 .my-background {
   background-color: black;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
 }
 
+.box {
+  background-color: pink;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-top: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.color-fix {
+  color:black;
+}
