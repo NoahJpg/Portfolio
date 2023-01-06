@@ -7,6 +7,12 @@ h1 {
 }
 .h1float {
   float: left;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-top: 20px solid black;
+  border-left: 20px solid black;
+  border-right: 20px solid black;
+  border-bottom: 20px solid black;
 }
 
 h2 {
@@ -49,7 +55,6 @@ p {
   list-style-position: inside;
   color: black;
   font-size: medium;
-  border: 5px black;
 }
 
 .about-me {
@@ -59,7 +64,13 @@ p {
   color: white;
   list-style-position: inside;
   background-color: teal;
-  border: 5px black;
+  padding-right: 30px;
+  border-top: 20px solid beige;
+  border-left: 20px solid beige;
+  border-right: 20px solid pink;
+  border-bottom: 20px solid beige;
+  padding-top: 10px;
+
 } 
 .year {
   background-color: rgba(255, 0, 0, 0.129);
@@ -73,6 +84,7 @@ p {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
+  border-left: 20px solid pink;
 }
 
 .box {
@@ -82,7 +94,6 @@ p {
   padding-top: 20px;
   padding-left: 100px;
   padding-right: 100px;
-}
-.color-fix {
-  color:black;
+  padding-bottom: 20px;
+  border-right: 20px solid black;
 }
