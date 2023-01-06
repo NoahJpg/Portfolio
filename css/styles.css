@@ -17,17 +17,14 @@ p {
   font-size: larger;
 }
 
-.color1{
-  background: pink;
-}
-.color2 {
-  background: teal;
-}
-.emphasis {
-  background-color:coral;
+.year {
+  text-transform: capitalize;
+  background-color: blue;
+  font-weight: bold;
 }
 
-.bold {
+.emphasis {
+  background-color:coral;
   font-weight: bold;
 }
 
@@ -45,9 +42,9 @@ p {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: large;
   text-align: center;
-  list-style-position: inside;
   color: white;
-  background-color: turquoise;
+  list-style-position: inside;
+  background-color: teal;
   border: 5px black;
 }
 
