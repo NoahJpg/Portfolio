@@ -17,8 +17,11 @@ p {
   font-size: larger;
 }
 
-.link{
-  background: gold;
+.color1{
+  background: pink;
+}
+.color2 {
+  background: teal;
 }
 .emphasis {
   background-color:coral;
@@ -26,10 +29,6 @@ p {
 
 .bold {
   font-weight: bold;
-}
-
-{
-  background: gold;
 }
 
 .webpages {
@@ -48,9 +47,7 @@ p {
   text-align: center;
   list-style-position: inside;
   color: white;
-  background-color: teal;
-  border: 4px red;
-  padding: auto;
-  margin: auto;
+  background-color: turquoise;
+  border: 5px black;
 }
 
