@@ -1,10 +1,10 @@
-# _README_
+# _Portfolio_
 
 #### By _**Noah Akinson**_
 
 #### _My portfolio of projects and some info about me_
 
-
+https://github.com/NoahJpg/Portfolio
 
 ## Technologies Used
 
