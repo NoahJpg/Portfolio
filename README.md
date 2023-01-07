@@ -29,7 +29,7 @@ _if the page does not work, instead, right click index.html, select "Open with" 
 ## Known Bugs
 
 * _The background color of the years listed under "My Background" do not appear_
-* _The header for 'My Background' sometimes will not center align on certain viewports_
+* _The borders and alignment for 'My Background' will not center align properly on certain viewports_
 
 
 ## License
