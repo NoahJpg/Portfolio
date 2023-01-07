@@ -4,7 +4,7 @@
 
 #### _My portfolio of projects and some info about me_
 
-https://github.com/NoahJpg/Portfolio
+https://noahjpg.github.io/Portfolio/
 
 ## Technologies Used
 
