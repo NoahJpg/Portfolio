@@ -1,5 +1,5 @@
 body {
-  background-color:beige;
+  background-color:lightgrey;
 }
 h1 {
   text-align: center;
@@ -63,12 +63,12 @@ p {
   text-align: center;
   color: white;
   list-style-position: inside;
-  background-color: teal;
+  background-color: rgba(59, 59, 123, 0.628);
   padding-right: 30px;
-  border-top: 20px solid beige;
-  border-left: 20px solid beige;
+  border-top: 20px solid lightgrey;
+  border-left: 20px solid lightgrey;
   border-right: 20px solid pink;
-  border-bottom: 20px solid beige;
+  border-bottom: 20px solid lightgrey;
   padding-top: 10px;
 
 } 
